@@ -1,1 +1,2 @@
 "Hello Git" 
+"bug fixed" 
